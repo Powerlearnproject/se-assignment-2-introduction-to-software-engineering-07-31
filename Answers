@@ -1,0 +1,78 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15354120&assignment_repo_type=AssignmentRepo)
+# SE-Assignment-2
+Assignment: Introduction to Software Engineering
+Instructions:
+Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+
+Questions:
+Define Software Engineering:
+
+What is software engineering, and how does it differ from traditional programming?
+Software Development Life Cycle (SDLC):
+
+Software Engineering is the organized, methodical creation of software using engineering principles, it is reliable and efficient. While programming its main focus is on writing code rather than the overrall development process.
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+1. Planning: defining project's scope,goals and objectives
+2. Requirements analysis: gathring and analysing the expectations and needs of stakeholders
+3. Design: creates a blueprint for the system that meets the specified requirements
+4. Coding implementation: writes and compiles code, implement software components, and perform initial unit testing to ensure each part works as intended
+5. Testing: ensures the software functions correctly and meets requirements
+6. Deployment: makes the software available for use
+7. Maintainance: provide ongoing support and improvements
+
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Agile vs. Waterfall Models:
+Agile is open to adaptation, encourages experimentation and welcomes changes of direction, even in later phases of the project. Because of this, the budget tends to be more flexible. Waterfall is a linear project progression, so it's best suited for projects with a defined end goal.
+
+Requirements Engineering:is the process of defining, documenting, and maintaining the requirements for a software system. It is a critical phase in the software development lifecycle (SDLC) that ensures the final product meets the needs and expectations of its users and stakeholders.
+
+Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
+Software Design Principles:
+
+
+Modularity is a fundamental principle in software design that improves maintainability and scalability. By dividing a system into smaller, self-contained modules, developers can manage complexity, isolate changes, facilitate independent testing, and support parallel development efforts. This approach leads to more robust, flexible, and scalable software systems that can evolve over time with reduced risk and effort(from Qoura)
+
+
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+
+Testing in Software Engineering: is a critical component of the development process, providing various levels of assurance that the software functions correctly and meets requirements. Unit testing focuses on individual components, integration testing checks the interaction between components, system testing validates the entire system, and acceptance testing ensures the software meets user needs. Comprehensive testing improves software quality, reduces risks, and enhances customer satisfaction(from Qoura)
+
+1. Unit testing:tests that are written and ran for checking the correctness of each unit using frameworks
+2. Intergration testing: tests that combine units of code and verify their interactions, such as checking data flow between functions, modules, or subsystems
+3. System testing: executes test cases based on the system requirements, covering functional and non-functional aspects such as performance, security, and usability
+4. Acceptance testing: conduct User Acceptance Testing (UAT) with end-users or stakeholders, using scenarios based on real-world usage(from Qoura)
+
+
+What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+
+Version Control Systems:essential tools in modern software development, enabling effective collaboration, detailed tracking of changes, efficient branching and merging, and reliable backup and recovery. Popular VCSs like Git, SVN, Mercurial, and Perforce offer various features tailored to different needs, ensuring that development teams can manage their codebases effectively and efficiently(from Qoura)
+
+examples:
+1. Git
+2. SVN
+3. Mercurial
+4. Perforce
+
+
+Software Project Management:
+
+Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+A Software Project Manager plays a pivotal role in orchestrating the successful delivery of software projects by planning, coordinating, and managing resources, schedules, and stakeholders. They face various responsibilities and challenges, requiring strong leadership, communication, problem-solving, and organizational skills to navigate complexities and ensure project success. Effective project management practices contribute significantly to delivering high-quality software products that meet business objectives and user expectations
+
+Software Maintenance: the process of modifying and updating a software system after its initial deployment to ensure it continues to meet user needs and performs as expected. It encompasses all activities involved in managing and enhancing software throughout its lifecycle.
+
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+1. Corrective Maintenance: prevents software from malfunctioning and ensures reliability and usability
+2. Adaptive Maintenance: modify the software to integrate with new platforms, update libraries or dependencies, or comply with new regulations or standards 
+3. Preventive Maintenance: identify and address potential vulnerabilities or areas prone to defects before they cause problems. Enhance documentation, conduct code reviews, and apply patches or updates to mitigate risks(from Qoura)
+
+
+Ethical Considerations in Software Engineering:
+
+What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
+Ethical considerations are integral to the practice of software engineering, ensuring that technology is developed and deployed responsibly for the benefit of individuals and society. By proactively addressing ethical issues, software engineers can uphold professional integrity, maintain trust with users, and contribute positively to the ethical advancement of technology.(from Qoura)
+
+
